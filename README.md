@@ -15,7 +15,7 @@ A friendly and modular Discord chatbot powered by Google Gemini. It features a p
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/supreminhogamer/discordaibot.git](https://github.com/supreminhogamer/discordaibot.git)
+    git clone https://github.com/supreminhogamer/discordaibot.git
     cd discordaibot
     ```
 
