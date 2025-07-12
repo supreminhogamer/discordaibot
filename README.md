@@ -1,2 +1,2 @@
 # discordaibot
-discord ai bot using gemini
+discord ai self-bot using gemini
