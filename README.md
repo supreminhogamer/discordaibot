@@ -44,3 +44,8 @@ A friendly and modular Discord chatbot powered by Google Gemini. It features a p
     ```bash
     python bot.py
     ```
+
+## To-Dos
+- Multi-Channel Support
+- Google Search Support
+- Graphical User Interface 
